@@ -10,6 +10,6 @@ on:
 jobs: 
   my_testing:
     runs-on: ubuntu-latest
-    steps:
-    - name: Print Hello World my Testing
-      run: echo "Hello world from Testing"
+     steps:
+     - name: Print Hello World my Testing
+       run: echo "Hello world from Testing"
