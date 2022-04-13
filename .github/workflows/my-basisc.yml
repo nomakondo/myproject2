@@ -11,5 +11,5 @@ jobs:
   my_testing:
     runs-on: ubuntu-latest
      steps:
-     - name: Print Hello World my Testing
-       run: echo "Hello world from Testing"
+      - name: Print Hello World my Testing
+        run: echo "Hello world from Testing"
